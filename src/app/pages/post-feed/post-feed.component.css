@@ -1,0 +1,5 @@
+#post-button {
+    position: absolute;
+    bottom: 2em;
+    left: 50%; /* Move button to center */
+    transform: translateX(-50%); /* Center button horizontally */}
